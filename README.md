@@ -1,6 +1,6 @@
 # 📊 HR Analytics Dashboard
 
-# Project Name :- 
+
 # HR Analytics Dashboard Using Power BI
 
 # Description :-
